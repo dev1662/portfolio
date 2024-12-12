@@ -172,7 +172,7 @@ body{
 }
 .name{
      width: 22ch;
-    letter-spacing: 2px;
+    /* letter-spacing: 0.5px; */
     font-size: 4rem;
     color:  rgb(223, 224, 172);
     font-weight:800;
