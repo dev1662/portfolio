@@ -2,12 +2,12 @@ import React, { useState, useRef } from "react";
 import { Link } from "react-router-dom";
 import "bootstrap/dist/css/bootstrap.min.css"; // Bootstrap CSS
 import "./new.css";
-import ScoreIndicator from "./rating";
+// import ScoreIndicator from "./rating";
 import CircularProgress from "./circle";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faComputerMouse } from "@fortawesome/free-solid-svg-icons";
 import { faCopyright } from "@fortawesome/free-solid-svg-icons";
-import { faCheck } from "@fortawesome/free-solid-svg-icons";
+// import { faCheck } from "@fortawesome/free-solid-svg-icons";
 import { faLinkedin } from "@fortawesome/free-brands-svg-icons";
 import { faEnvelope } from "@fortawesome/free-solid-svg-icons";
 import { faGithub } from "@fortawesome/free-brands-svg-icons";
@@ -126,7 +126,7 @@ const Resume = () => {
       </div>
       <div className="res-container">
         <div className="abt">
-          <img src="profile.jpg" className="pp"></img>
+          <img src="profile.jpg" className="pp" alt="profile"></img>
           <div className="res-text">
             Passionate Full-Stack Developer with expertise in Vue.js, React.js,
             PHP, JavaScript, SASS, SQL, and Kotlin. I excel at creating robust
