@@ -129,11 +129,12 @@ const Resume = () => {
           <img src="profile.jpg" className="pp" alt="profile"></img>
           <div className="res-text">
             Passionate Full-Stack Developer with expertise in Vue.js, React.js,
-            PHP, JavaScript, SASS, SQL, and Kotlin. I excel at creating robust
-            web and mobile applications. Holding a Bachelor of Vocational
-            Studies in Software Development from the Integrated Institute of
-            Technology, I am dedicated to delivering high-quality, user-friendly
-            solutions. Let's connect and collaborate on innovative projects!
+            PHP, JavaScript, SASS (CSS Framework), SQL, and Kotlin. I excel at
+            creating robust web and mobile applications. Holding a Bachelor of
+            Vocational Studies in Software Development from the Integrated
+            Institute of Technology, I am dedicated to delivering high-quality,
+            user-friendly solutions. Let's connect and collaborate on innovative
+            projects!
           </div>
         </div>
 
