@@ -1196,8 +1196,8 @@ height: 200px;
     }
 
     .hamburger {
-    font-size: 46px; /* Adjust the size of the hamburger */
-    margin-top: -18px;
+    font-size: 40px; /* Adjust the size of the hamburger */
+    margin-top: -4px;
     margin-inline: 7px;
     color: rgb(223, 224, 172); /* Change this to the color you want */
     cursor: pointer;
