@@ -152,7 +152,7 @@ const Resume = () => {
             <span className="res-name">Citizenship:</span>India
           </div>
           <div className="label">
-            <span className="res-name">Residence:</span>Delhi
+            <span className="res-name"></span>
           </div>
           <div className="label">
             <span className="res-name">Email:</span>
