@@ -98,9 +98,9 @@ const App = () => {
                     <div className="info">
                       <div className="name">DEV SINDHWANI</div>
                       <div className="text">
-                        I'm a Software Developer with expertise in Vue.js,
+                        I'm a Full Stack Engineer with experience of 4+ years in Flutter ,
                         React.js, PHP, Laravel, CodeIgniter, Kotlin, and
-                        Flutter. I specialize in building user-focused
+                        Golang. I specialize in building user-focused
                         applications that streamline processes and enhance
                         efficiency. Passionate about using technology to solve
                         complex problems, I’m dedicated to delivering clean,
