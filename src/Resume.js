@@ -128,8 +128,8 @@ const Resume = () => {
         <div className="abt">
           <img src="profile.jpg" className="pp" alt="profile"></img>
           <div className="res-text">
-            Passionate Full-Stack Developer with expertise in Vue.js, React.js,
-            PHP, JavaScript, SASS (CSS Framework), SQL, and Kotlin. I excel at
+            Passionate Full-Stack Developer with experience of 4+ years in Flutter , React.js,
+            PHP, JavaScript, SASS (CSS Framework), SQL, and Golang. I excel at
             creating robust web and mobile applications. Holding a Bachelor of
             Vocational Studies in Software Development from the Integrated
             Institute of Technology, I am dedicated to delivering high-quality,
@@ -177,7 +177,7 @@ const Resume = () => {
         <div className="exp-container">
           <div className="t1">Work Experience</div>
           <div className="company">Novative Solutions Pvt Ltd (Oas36ty)</div>
-          <div className="Year">July,2022 - Present</div>
+          <div className="Year">July , 2022 - Aug , 2025</div>
           <div className="designation">Software Analyst</div>
           <div className="time-info">
             Developed Automation tool and SASS application! Integrate GMAIL
@@ -217,7 +217,7 @@ const Resume = () => {
             Bachelor Of Vocational Studies in Software Development (BCA)
           </div>
           <div className="designation">Integrated Institute of Technology</div>
-          <div className="time-info">01/2021 - 05/2023</div>
+          <div className="time-info">01/2020 - 05/2022</div>
 
           {/*<div className="Year">2021-Present</div>
                         <div className="designation">Software Engineer</div>
